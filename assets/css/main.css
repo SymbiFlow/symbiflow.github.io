@@ -1254,7 +1254,6 @@ a {
     margin-bottom: 0; }
 
 .diagram__diagram {
-  max-width: 980px;
   margin: 0 auto;
   overflow-x: auto;
   color: #5A2AB5; }
@@ -1269,12 +1268,10 @@ a {
   border: 3px solid #5A2AB5;
   border-radius: 8px;
   overflow: hidden;
-  width: 980px;
   margin: 0 auto; }
 
 .diagram__table {
   table-layout: fixed;
-  width: 980px;
   font-size: 1.5em;
   border-collapse: collapse; }
   .diagram__table td {

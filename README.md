@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-14-g56d5b35](https://github.com/SymbiFlow/symbiflow-website/commit/56d5b3598b740afa864d2f5cfd510b7e25c7339b)
+Built from [SymbiFlow/symbiflow-website v0.0-17-g8cd326a](https://github.com/SymbiFlow/symbiflow-website/commit/8cd326a2410471d46a3b1d53c5d8cb98c29d8a86)
 
 # Commit Message
 
-Merge pull request #6 from mithro/master
+Merge pull request #13 from mithro/master
 
-Fixing travis auto builder.
+Updating status table
