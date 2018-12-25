@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-17-g8cd326a](https://github.com/SymbiFlow/symbiflow-website/commit/8cd326a2410471d46a3b1d53c5d8cb98c29d8a86)
+Built from [SymbiFlow/symbiflow-website v0.0-20-g77d6e60](https://github.com/SymbiFlow/symbiflow-website/commit/77d6e60581c62bc16d82ca04e250ab3117955d79)
 
 # Commit Message
 
-Merge pull request #13 from mithro/master
+Merge pull request #14 from daveshah1/patch-1
 
-Updating status table
+Update ECP5 with latest progress
