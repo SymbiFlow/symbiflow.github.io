@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-20-g77d6e60](https://github.com/SymbiFlow/symbiflow-website/commit/77d6e60581c62bc16d82ca04e250ab3117955d79)
+Built from [SymbiFlow/symbiflow-website v0.0-22-g4f5b4f1](https://github.com/SymbiFlow/symbiflow-website/commit/4f5b4f121f2a0e901a29baabc7304923cca27448)
 
 # Commit Message
 
-Merge pull request #14 from daveshah1/patch-1
+Merge pull request #15 from antmicro/styles-cleanup
 
-Update ECP5 with latest progress
+Styles cleanup
