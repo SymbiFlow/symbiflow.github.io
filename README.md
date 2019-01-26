@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-28-gda735d7](https://github.com/SymbiFlow/symbiflow-website/commit/da735d7d5ddac66df9e9acaa17a9176e170c206d)
+Built from [SymbiFlow/symbiflow-website v0.0-31-g6be922d](https://github.com/SymbiFlow/symbiflow-website/commit/6be922d5b73de1361170e6f2a41b28684712aa37)
 
 # Commit Message
 
-Merge pull request #19 from mgielda/patch-1
+Merge pull request #20 from redfast00/correct-casing
 
-Expand website title.
+Check casing script
