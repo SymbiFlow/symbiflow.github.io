@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-31-g6be922d](https://github.com/SymbiFlow/symbiflow-website/commit/6be922d5b73de1361170e6f2a41b28684712aa37)
+Built from [SymbiFlow/symbiflow-website v0.0-34-ge77d303](https://github.com/SymbiFlow/symbiflow-website/commit/e77d303c09efc2ca1aca1ebbf70ef3c0cd976f16)
 
 # Commit Message
 
-Merge pull request #20 from redfast00/correct-casing
+Merge pull request #22 from antmicro/gsoc
 
-Check casing script
+GSoC information page.
