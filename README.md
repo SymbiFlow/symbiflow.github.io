@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-34-ge77d303](https://github.com/SymbiFlow/symbiflow-website/commit/e77d303c09efc2ca1aca1ebbf70ef3c0cd976f16)
+Built from [SymbiFlow/symbiflow-website v0.0-36-g9550ba1](https://github.com/SymbiFlow/symbiflow-website/commit/9550ba1e1faa6fd2dc007b9f721e7eff3704c47d)
 
 # Commit Message
 
-Merge pull request #22 from antmicro/gsoc
+Merge pull request #24 from antmicro/gsoc-info
 
-GSoC information page.
+Added a gsoc banner proposal
