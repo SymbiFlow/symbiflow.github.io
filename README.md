@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-42-gc413192](https://github.com/SymbiFlow/symbiflow-website/commit/c4131921e93da92ae6e4d61ad8b7d6b2d9c37ea2)
+Built from [SymbiFlow/symbiflow-website v0.0-44-g28da4fb](https://github.com/SymbiFlow/symbiflow-website/commit/28da4fb0f9fd3c460a9b0e55bd9d0a91f47ea660)
 
 # Commit Message
 
-Merge pull request #26 from antmicro/footer-year
+Merge pull request #27 from antmicro/slack-register
 
-Script to add current year to footer
+Added link to slack registration
