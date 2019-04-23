@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-44-g28da4fb](https://github.com/SymbiFlow/symbiflow-website/commit/28da4fb0f9fd3c460a9b0e55bd9d0a91f47ea660)
+Built from [SymbiFlow/symbiflow-website v0.0-46-gab41f11](https://github.com/SymbiFlow/symbiflow-website/commit/ab41f11f5443c0c05bdf8c254bd107bdce8c5822)
 
 # Commit Message
 
-Merge pull request #27 from antmicro/slack-register
+Merge pull request #28 from mgielda/patch-3
 
-Added link to slack registration
+Stub version of season of docs
