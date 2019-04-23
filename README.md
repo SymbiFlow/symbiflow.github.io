@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-46-gab41f11](https://github.com/SymbiFlow/symbiflow-website/commit/ab41f11f5443c0c05bdf8c254bd107bdce8c5822)
+Built from [SymbiFlow/symbiflow-website v0.0-48-g1b6fe4a](https://github.com/SymbiFlow/symbiflow-website/commit/1b6fe4adfe3dd329f3d1852db384d0bfb9115309)
 
 # Commit Message
 
-Merge pull request #28 from mgielda/patch-3
+Merge pull request #29 from mgielda/patch-4
 
-Stub version of season of docs
+Flesh out season of docs
