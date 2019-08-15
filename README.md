@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-52-ga29e136](https://github.com/SymbiFlow/symbiflow-website/commit/a29e13673cb66ec856cff0397f80fa3228f62dc4)
+Built from [SymbiFlow/symbiflow-website v0.0-54-g7982ac9](https://github.com/SymbiFlow/symbiflow-website/commit/7982ac9d0f343f5b9372e165a70b6fb017ef04f4)
 
 # Commit Message
 
-Merge pull request #31 from whitequark/patch-1
+Merge pull request #32 from duck2ness/master
 
-Fix spelling of Migen
+fix orconf links
