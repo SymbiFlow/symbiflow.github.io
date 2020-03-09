@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-56-gb002336](https://github.com/SymbiFlow/symbiflow-website/commit/b0023366f23c4bfe5647a156881d0fe135304848)
+Built from [SymbiFlow/symbiflow-website v0.0-58-g0941135](https://github.com/SymbiFlow/symbiflow-website/commit/094113572f134ab0212a9d14ea7aa11cad5aa46d)
 
 # Commit Message
 
-Merge pull request #34 from mgielda/patch-6
+Merge pull request #39 from mithro/master
 
-Update slack invite link
+Updating GSoC page link.
