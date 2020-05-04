@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-60-ga4dd3ba](https://github.com/SymbiFlow/symbiflow-website/commit/a4dd3ba0a0bb5ca6c68e47f402d614e640dc7ef0)
+Built from [SymbiFlow/symbiflow-website v0.0-62-g8778a4d](https://github.com/SymbiFlow/symbiflow-website/commit/8778a4dbd891bfff343b08a426bdb7523c9916f3)
 
 # Commit Message
 
-MInor review of README
+Merge pull request #45 from antmicro/season_of_docs
 
-Signed-off-by: Michael Gielda <mgielda@antmicro.com>
+Update the Season of Docs webpage
