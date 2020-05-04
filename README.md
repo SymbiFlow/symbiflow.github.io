@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-62-g8778a4d](https://github.com/SymbiFlow/symbiflow-website/commit/8778a4dbd891bfff343b08a426bdb7523c9916f3)
+Built from [SymbiFlow/symbiflow-website v0.0-67-g854faf2](https://github.com/SymbiFlow/symbiflow-website/commit/854faf24b1027af1182deadbb31de058181ca6de)
 
 # Commit Message
 
-Merge pull request #45 from antmicro/season_of_docs
+Merge pull request #41 from antmicro/new_website
 
-Update the Season of Docs webpage
+Update the website
