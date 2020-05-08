@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-69-gb87b061](https://github.com/SymbiFlow/symbiflow-website/commit/b87b061c3629843b78f70df035ee62972e05e59a)
+Built from [SymbiFlow/symbiflow-website v0.0-71-g7a6ef00](https://github.com/SymbiFlow/symbiflow-website/commit/7a6ef005900a03af53c61243a1776e759e1b7ebe)
 
 # Commit Message
 
-Merge pull request #46 from antmicro/gsod_update
+Merge pull request #48 from antmicro/main_website
 
-Add links to the GSOD project propositions
+Rearrange the main website
