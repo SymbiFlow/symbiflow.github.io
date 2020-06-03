@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-75-g4ef31a1](https://github.com/SymbiFlow/symbiflow-website/commit/4ef31a157765775852e7e96c7fea4891374a2c60)
+Built from [SymbiFlow/symbiflow-website v0.0-77-g06a0cda](https://github.com/SymbiFlow/symbiflow-website/commit/06a0cda3b7c7a856f9c8f693ea0629d8a71c71d5)
 
 # Commit Message
 
-Merge pull request #52 from antmicro/comm_channels
+Merge pull request #53 from antmicro/rm_gsoc
 
-Add communication channels to main webpage
+Remove GSoC banner
