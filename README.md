@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-77-g06a0cda](https://github.com/SymbiFlow/symbiflow-website/commit/06a0cda3b7c7a856f9c8f693ea0629d8a71c71d5)
+Built from [SymbiFlow/symbiflow-website v0.0-79-gb958184](https://github.com/SymbiFlow/symbiflow-website/commit/b958184b26723011bb372d2d815c43e5d6e70336)
 
 # Commit Message
 
-Merge pull request #53 from antmicro/rm_gsoc
+Merge pull request #56 from Werni2A/correctGitHubLink
 
-Remove GSoC banner
+Fix link that pointed to Twitter instead of GitHub
