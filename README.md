@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-79-gb958184](https://github.com/SymbiFlow/symbiflow-website/commit/b958184b26723011bb372d2d815c43e5d6e70336)
+Built from [SymbiFlow/symbiflow-website v0.0-81-g738f093](https://github.com/SymbiFlow/symbiflow-website/commit/738f09391679ce075f03984d5c75893c3194d40f)
 
 # Commit Message
 
-Merge pull request #56 from Werni2A/correctGitHubLink
+Merge pull request #58 from antmicro/quicklogic
 
-Fix link that pointed to Twitter instead of GitHub
+Update QuickLogic EOS S3 status
