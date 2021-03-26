@@ -1,0 +1,91 @@
+
+      <!DOCTYPE html>
+      <html lang="en">
+
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>SymbiFlow - the GCC of FPGAs</title>
+        <link rel="stylesheet" href="assets/css/main.css">
+      </head>
+
+      <body class="article">
+    <h1 id="google-season-of-docs-2021-organization-application">Google Season of Docs 2021 Organization Application</h1>
+<h2 id="project-title-create-a-set-of-guidelines-on-using-and-contributing-to-an-open-source-fpga-development-flow">Project title: Create a set of guidelines on using and contributing to an open source FPGA development flow</h2>
+<h2 id="about-symbiflow">About SymbiFlow</h2>
+<p>SymbiFlow is the first fully open source toolchain for vendor-neutral, portable, modular and future-proof development on Field Programmable Gate Arrays (FPGAs).</p>
+<p>FPGAs are very flexible and configurable, massively parallel hardware processing platforms (chips) which can adapt their operation to a given workload in runtime. They can be found in devices such as video cameras, frame grabbers, satellites, cellular base stations, lab equipment, autonomous cars etc. since for specific, parallel workflows they operate at much lower power and latency as well as higher performance than general-purpose processors (CPUs). FPGAs are also widely used for all sorts of hardware hacking purposes - driving LED arrays, emulating old gaming consoles, converting and processing signals.</p>
+<p>SymbiFlow aims to bring the awesomeness of FPGAs, which can also be viewed as software-configurable-hardware, to even more use cases by making them more open and easy to use. Currently, while it is possible to program (configure) FPGAs using open and portable hardware description languages such as Verilog and VHDL (or even “regular” programming languages like Python and Scala), the compilers needed to do this are closed and vendor-specific. This limits adoption and the capability to innovate on the FPGA programming workflows themselves by creating walled-off ecosystems and causing separate learning curves depending on the FPGA platform used.</p>
+<p>Therefore the SymbiFlow project’s aim is to open up the FPGA toolchain space to a fully collaborative, modular, vendor-neutral and reusable development model by creating a suite of open source, interchangeable tools which target various FPGA platforms. With the open flows already working for several popular FPGAs, we are already seeing how the open toolchain can help optimise and automate FPGA development workflows and push FPGAs towards widespread adoption. This is much like what open source compilers did for software, hence our motto - the GCC of FPGAs!</p>
+<h2 id="about-the-project">About the project</h2>
+<h3 id="project-problems">Project problems</h3>
+<p>SymbiFlow is aiming to do something that has never been done before, namely to provide the first fully open source flow for FPGA development that consists of vendor-neutral and future-proof tooling. That’s why it is still rough around the edges here and there, especially when it comes to documentation and guidelines on how to use the toolchain and how to contribute to it. </p>
+<p>Over the course of the project’s duration we have seen many users get confused as to which components of the toolchain need to be built locally and which ones can be downloaded already pre-built. They often start by recreating the whole FPGA architecture definitions instead of simply using them (and build only the required tools). Architecture description generation is quite a complicated process that requires a lot of resources and time. This causes frustration of the early adopters and clear guidelines for this would help remove the confusion, shortening the time and effort needed to contribute.</p>
+<p>Another thing is that users are directed to installation artifacts which they need to download in order to have a complete set of data files required to successfully run the toolchain but there is no documentation that would describe what those artifacts include.</p>
+<p>The documentation is also missing information about possible error messages that particular tools may generate, clear list of supported FPGA features or comprehensive contribution guidelines.</p>
+<p>The technical writer involved in the SymbiFlow project will be tasked with dividing the <a href="https://symbiflow-examples.readthedocs.io/en/latest/">symbiflow-examples</a> docs into examples description, toolchain description, device database and bitstream deployment, as well as generating guidelines on the downloadable contents related to the toolchain. They will also be required to add a troubleshooting section containing example error messages with information where the problem may be and how to solve it, review the contribution guidelines, including templates used for reporting new issues, add a list of supported FPGA cells along with the extent of the support, as well as come up with a summary what is needed and where to look for information. </p>
+<h3 id="our-project-scope-">Our project scope:</h3>
+<ul>
+<li>Review <a href="https://symbiflow-examples.readthedocs.io/en/latest/">symbiflow-examples docs</a><ul>
+<li>split:<ul>
+<li>Examples description</li>
+<li>toolchain description</li>
+<li>Device database</li>
+<li>Bitstream deployment</li>
+</ul>
+</li>
+<li>Add info on downloadable contents related to the toolchain (symbiflow-arch-defs products)</li>
+</ul>
+</li>
+<li>Add troubleshooting section<ul>
+<li>Include example error messages with information where the problem may be and what to check.</li>
+<li>Refer to tools error messages (what is reported by Yosys, VPR etc)</li>
+</ul>
+</li>
+<li>Review respective contribution guidelines and come up with a summary with short description of what is needed and where to look for information</li>
+<li>Add a list of supported FPGA cells along with the support extent (all features or just only some features). Add a list of supported IOSTANDARDS</li>
+</ul>
+<h3 id="how-we-measure-success-">How we measure success:</h3>
+<ul>
+<li>Consolidated and easy to find set of guidelines on usage and contribution</li>
+<li>Decreased number of GitHub inquiries about issues, usage and contribution </li>
+<li>Increased number of users and contributors to SymbiFlow</li>
+<li>Users and contributors work more effectively, e.g., don’t build architecture definitions from scratch but use the pre-built ones.</li>
+</ul>
+<h3 id="budget-">Budget:</h3>
+<ul>
+<li>Technical writer - 9800 USD</li>
+<li>Project swag (10 t-shirts) - 200 USD</li>
+</ul>
+<h3 id="skills-needed">Skills needed</h3>
+<ul>
+<li>Experience working with technical documentation </li>
+<li>Basic understanding of computer science</li>
+<li>Basic knowledge of FPGAs would be nice to have</li>
+<li>Familiarity with GitHub</li>
+</ul>
+<h3 id="volunteers">Volunteers</h3>
+<h4 id="technical-support">Technical support</h4>
+<ul>
+<li><a href="https://github.com/kgugala">Karol Gugala </a></li>
+<li><a href="https://github.com/tmichalak">Tom Michalak</a></li>
+<li><a href="https://github.com/acomodi">Alessandro Comodi</a></li>
+<li><a href="https://github.com/mkurc-ant">Maciej Kurc</a></li>
+</ul>
+<h4 id="technical-writing-mentorship">Technical writing mentorship</h4>
+<ul>
+<li><a href="https://github.com/zuravinho">Peter Zurawski</a></li>
+</ul>
+<h3 id="contact-info">Contact info</h3>
+<p>Interested technical writers should reach out to us via <a href="mailto:contact@symbiflow.org">mail</a>. Please include links to your technical writing work and a CV.</p>
+<h2 id="additional-information">Additional information</h2>
+<ul>
+<li>Regular participation in Google Summer of Code.</li>
+<li>Experience of our technical support team in mentoring university students, GSoC participants and in working with technical writers.</li>
+</ul>
+
+      </body>
+
+      </html>
+    

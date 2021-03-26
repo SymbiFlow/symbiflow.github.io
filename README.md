@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-81-g738f093](https://github.com/SymbiFlow/symbiflow-website/commit/738f09391679ce075f03984d5c75893c3194d40f)
+Built from [SymbiFlow/symbiflow-website v0.0-84-g48cbbf1](https://github.com/SymbiFlow/symbiflow-website/commit/48cbbf1d3009bd6009f220408792d18c313a8fe6)
 
 # Commit Message
 
-Merge pull request #58 from antmicro/quicklogic
+Merge pull request #60 from antmicro/GSOD2021
 
-Update QuickLogic EOS S3 status
+Gsod2021
