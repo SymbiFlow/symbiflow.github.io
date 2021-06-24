@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website v0.0-88-gf8bc9ec](https://github.com/SymbiFlow/symbiflow-website/commit/f8bc9ec76880850b412572533680dd1921463a44)
+Built from [SymbiFlow/symbiflow-website ](https://github.com/SymbiFlow/symbiflow-website/commit/9497a826f2fbc02a7064b553f70afd2096b91c84)
 
 # Commit Message
 
-Merge pull request #62 from antmicro/add-ql-info
+Merge pull request #66 from antmicro/deploy-fix
 
-Add QuickLogic qlf_k4n8 eFPGA to supported architectures
+Fix deploy-push script call
