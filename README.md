@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website ](https://github.com/SymbiFlow/symbiflow-website/commit/9497a826f2fbc02a7064b553f70afd2096b91c84)
+Built from [SymbiFlow/symbiflow-website ](https://github.com/SymbiFlow/symbiflow-website/commit/0481ba660d3e64fcf3255fa773c11462674440e7)
 
 # Commit Message
 
-Merge pull request #66 from antmicro/deploy-fix
+Merge pull request #67 from antmicro/libera-irc
 
-Fix deploy-push script call
+Switch IRC links to Libera
