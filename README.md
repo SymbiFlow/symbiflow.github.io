@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website ](https://github.com/SymbiFlow/symbiflow-website/commit/0481ba660d3e64fcf3255fa773c11462674440e7)
+Built from [SymbiFlow/symbiflow-website ](https://github.com/SymbiFlow/symbiflow-website/commit/017a14eb2cd033e338cacee0b009b41c73676083)
 
 # Commit Message
 
-Merge pull request #67 from antmicro/libera-irc
+Merge pull request #68 from antmicro/fix-examples-link
 
-Switch IRC links to Libera
+Link to examples docs instead of repo
