@@ -1,9 +1,9 @@
 # [SymbiFlow Website](https://symbiflow.github.io)
 
-Built from [SymbiFlow/symbiflow-website ](https://github.com/SymbiFlow/symbiflow-website/commit/017a14eb2cd033e338cacee0b009b41c73676083)
+Built from [SymbiFlow/symbiflow-website ](https://github.com/SymbiFlow/symbiflow-website/commit/fdf10212323fac2973a1c3c106a83db3c7bdd633)
 
 # Commit Message
 
-Merge pull request #68 from antmicro/fix-examples-link
+Merge pull request #71 from antmicro/database-visualizer
 
-Link to examples docs instead of repo
+Add link to Architectures Visualizer
