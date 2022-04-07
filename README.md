@@ -1,9 +1,4 @@
-# [SymbiFlow Website](https://symbiflow.github.io)
+# SymbiFlow | F4PGA Website
 
-Built from [SymbiFlow/symbiflow-website ](https://github.com/SymbiFlow/symbiflow-website/commit/caa0bfe3020612e65d25f94303f54097c3c893b0)
-
-# Commit Message
-
-Merge pull request #69 from umarcor/update
-
-Update list of HDLs and Arty A7 data; Reorder Links
+SymbiFlow is now F4PGA!
+See [f4pga.org](https://f4pga.org/) and [f4pga.readthedocs.io](https://f4pga.readthedocs.io/).
